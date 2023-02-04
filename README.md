@@ -1,5 +1,7 @@
 # FYC-ressources
 
+![Cover image for the course](./cover.jpg?raw=true "Cover")
+
 This is the ressources folders of the FYC.
 
 ## What is it ?
