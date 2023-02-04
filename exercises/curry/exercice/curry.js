@@ -1,3 +1,3 @@
-export const curry = (fn) => {
+export const curry = (/* your args here*/) => {
   // Your code here
 };
