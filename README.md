@@ -3,11 +3,12 @@
 ![Cover image for the course](./cover.jpg?raw=true "Cover")
 
 This is the ressources folders of the FYC.
+Warning : this is wrotten **in french** 🇫🇷 only.
 
 ## What is it ?
 
 FYC is a acronym for "Find Your Course"
-It is a project that aim to replace the final essay of the last year from ESGI's Master degree.
+It is a french 🇫🇷 project that aim to replace the final essay of the last year from ESGI's Master degree.
 
 Instead of writing pages of a subject, we have beed assigned another task : making a course !
 
@@ -23,6 +24,8 @@ We :
 - Recorded **4 videos** correcting the tests wth our added value on top of the explanations.
 
 ## Where to start ?
+
+### Document
 
 If you did not know about this course, you can start by following the course with downloading it with this link below :
 
@@ -45,7 +48,6 @@ They are 2 videos for each exercices available :
 - Presentation of the exercise
 - Correction of the exercise in live coding
 
-Warning : Videos are only **in french** 🇫🇷
 They are hosted on Youtube on this link below :
 
 **/!\ Comming soon /!\\**
