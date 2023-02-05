@@ -5,7 +5,7 @@ import { curry } from "./curry.js";
 
 const sendMessage = (email, message) => {
   // Send message to mailing API
-  console.log(`Sending message "${message}" to ${email}...`);
+  console.log(`Sending message "${email}" to ${message}...`);
 };
 
 const curriedSendMessage = curry(sendMessage);
@@ -15,5 +15,5 @@ const sendPromotionMessage = curriedSendMessage("Promotions sur les saucisses !"
 
 // const sendPromotionMessage = curry(sendMessage)("Promotions sur les saucisses");
 
-sendImportantMessage("jadoreles@example.com");
-sendImportantMessage("saucisses@example.com");
+sendPromotionMessage("jadoreles@example.com");
+sendPromotionMessage("saucisses@example.com");

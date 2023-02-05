@@ -1,11 +1,9 @@
-export const curry = (fn) => {
-  return (...args) => {
+export const curry =
+  (fn) =>
+  (...args) => {
     if (args.length >= fn.length) {
       return fn(...args);
     } else {
-      return (...moreArgs) => {
-        return curry(fn)(...args, ...moreArgs);
-      };
+      return (...moreArgs) => curry(fn)(...args, ...moreArgs);
     }
   };
-};
