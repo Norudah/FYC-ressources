@@ -20,6 +20,6 @@ Pour résumer, vous devez :
 - [ ] Créer un cas d'application
 - [ ] Optionnel : Créer un POC (Proof of Concept) très simple d'une application réelle.
 
-## Lien du répo :
+## Lien du dépôt :
 
-https://github.com/Norudah/FYC-ressources
+https://github.com/Norudah/FYC-ressources/tree/main/exercises/compose

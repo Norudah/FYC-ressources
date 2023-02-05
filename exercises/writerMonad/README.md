@@ -23,10 +23,10 @@ Voici quelques indices :
 
 Pour résumer, vous devez :
 
-- [ ] Développez la monade Writer
-- [ ] Développez des fonctions à chainer à l'aide de la monade Writer
+- [ ] Développer la monade Writer
+- [ ] Développer des fonctions à chainer à l'aide de la monade Writer
 - [ ] Appliquer vos fonctions à chainer avec la monade que vous avez développé
 
-## Lien du répo :
+## Lien du dépôt :
 
-https://github.com/Norudah/FYC-ressources
+https://github.com/Norudah/FYC-ressources/tree/main/exercises/writerMonad
