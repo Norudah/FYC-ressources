@@ -4,7 +4,7 @@ addition(5, 5);
 // Retourne 5
 
 addition(addition(2, 3), 5);
-// retourne 5
+// retourne 5 + 5 <=> 10
 
 addition(addition(2, 3), addition(4, 1));
-// retourne 5
+// retourne 5 + 5 <=> 10
