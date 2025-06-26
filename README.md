@@ -29,7 +29,7 @@ We :
 
 If you did not know about this course, you can start by following the course with downloading it with this link below :
 
-**/!\ Comming soon /!\\**
+[Link to the course](https://github.com/Norudah/FYC-ressources/blob/main/Cours%20-%20Introduction%20a%CC%80%20la%20programmation%20fonctionnelle%20en%20javascript.pdf)
 
 ### Ressources
 
@@ -51,6 +51,15 @@ They are 2 videos for each exercices available :
 They are hosted on Youtube on this link below :
 
 **/!\ Comming soon /!\\**
+
+Exercices :
+- [Exercice - "Compose"](https://youtu.be/aBKKF4WnSg4)
+- [Exercice - "Curry"](https://youtu.be/MS37uepDr4E)
+- [Exercice - "Curry Writer"](https://youtu.be/IL_T2r2vypw)
+
+Exercice corrections :
+- [Exercice correction - "Compose"](https://youtu.be/X_ck41KEBEs)
+- Coming soon...
 
 That's all !
 
