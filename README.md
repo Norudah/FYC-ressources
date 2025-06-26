@@ -1,77 +1,76 @@
-# FYC-ressources
+# FYC-Resources
 
 ![Cover image for the course](./cover.jpg?raw=true "Cover")
 
-This is the ressources folders of the FYC.
-Warning : this is wrotten **in french** 🇫🇷 only.
+This is the resources folder for the FYC project.  
+Warning: all content is written in French 🇫🇷 only.
 
-## What is it ?
+## What is it?
 
-FYC is a acronym for "Find Your Course"
-It is a french 🇫🇷 project that aim to replace the final essay of the last year from ESGI's Master degree.
+FYC stands for "Find Your Course."  
+It’s a French 🇫🇷 project designed to replace the traditional final essay for the last year of the ESGI Master’s degree.
 
-Instead of writing pages of a subject, we have beed assigned another task : making a course !
+Instead of writing dozens of pages on a topic, we were given a different challenge: creating a course!
 
-Our is "How to apply functional programming with Javascript"
+Our topic is:  
+"How to apply functional programming with JavaScript."
 
-We :
+We:
 
-- Wrote more than **80 pages** on the subject (extracted from Google doc, even if it was mainly meant to be hosted on the Moodle online plateform)
-- Realised **3 exercices** hosted on Github in order to **challenge yourself**
-- Have hosted **all examples** from inside the course as individual files in order to be **tested by yourself** if you want to deep dive into the course by practicing
-- Created **4 mutli-choice question test** + **1 final test** (specific to the Moodle online platform)
-- Recorded **3 videos** correcting the exercice in **live codding**
-- Recorded **4 videos** correcting the tests wth our added value on top of the explanations.
+- Wrote more than 80 pages on the subject (extracted from a Google Doc, although it was mainly intended to be hosted on the Moodle platform)
+- Created 3 exercises hosted on GitHub to challenge yourself
+- Included all code examples from the course as individual files so you can test and explore them hands-on
+- Designed 4 multiple-choice quizzes + 1 final test (Moodle-specific)
+- Recorded 3 videos with live coding corrections of the exercises
+- Recorded 4 videos with test corrections and additional insights beyond simple explanations
 
-## Where to start ?
+## Where to start?
 
 ### Document
 
-If you did not know about this course, you can start by following the course with downloading it with this link below :
+If you're discovering this course, start by downloading the PDF using the link below:
 
 [Link to the course](https://github.com/Norudah/FYC-ressources/blob/main/Cours%20-%20Introduction%20a%CC%80%20la%20programmation%20fonctionnelle%20en%20javascript.pdf)
 
-### Ressources
+### Resources
 
-Ressources from the PDF have been extracted into `/ressources` folder.
-They are separeted by different folders according to the chapter name. So you can practice and play by yourself with all the code examples provided in the course.
+All code examples from the PDF are extracted in the `/ressources` folder.  
+They’re organized into subfolders matching each chapter title, so you can explore and practice at your own pace.
 
 ### Exercises
 
-Exercices are located under the `/exercices` folder.
-Each subfolder have their on subject description. You can try to resolve by yourself in the `/{exerciseName}/exercise` subfolder and then checkout the correction in the `/{exerciseName}/correction` subfolder.
+Exercises are located in the `/exercices` folder.  
+Each subfolder contains a description of the exercise. You can try solving it on your own inside the `/{exerciseName}/exercise` subfolder, then check the solution in the `/{exerciseName}/correction` subfolder.
 
 ### Videos
 
-They are 2 videos for each exercices available :
+There are 2 videos available for each exercise:
 
-- Presentation of the exercise
-- Correction of the exercise in live coding
+- A presentation of the exercise
+- A live coding correction
 
-They are hosted on Youtube on this link below :
+Hosted on YouTube:
 
-**/!\ Comming soon /!\\**
+Exercises:
+- [Exercise - "Compose"](https://youtu.be/aBKKF4WnSg4)
+- [Exercise - "Curry"](https://youtu.be/MS37uepDr4E)
+- [Exercise - "Curry Writer"](https://youtu.be/IL_T2r2vypw)
 
-Exercices :
-- [Exercice - "Compose"](https://youtu.be/aBKKF4WnSg4)
-- [Exercice - "Curry"](https://youtu.be/MS37uepDr4E)
-- [Exercice - "Curry Writer"](https://youtu.be/IL_T2r2vypw)
+Exercise Corrections:
+- [Correction - "Compose"](https://youtu.be/X_ck41KEBEs)
+- More coming soon...
 
-Exercice corrections :
-- [Exercice correction - "Compose"](https://youtu.be/X_ck41KEBEs)
-- Coming soon...
+That's all!
 
-That's all !
-
-Enjoy your javascript functional programming journey !
+Enjoy your journey into functional programming with JavaScript!
 
 ---
 
 ## Contributing (course staff only)
 
-Ressources organization rules :
+Resources organization rules:
 
-- Respect the project structure
-- Respect the file types, and organize them into another folder
-  - Except all .js files must be in the root of the chapter
-  - Others, for examples : All screenshots like .png files must be inside /screenshots sub-folder. You can separate .png files between /screenshots/ and schemas/ if necessary
+- Follow the project structure
+- Respect file types and organize them into appropriate folders
+  - All `.js` files must be placed at the root of each chapter folder
+  - Other files (e.g. `.png` images) should go into a `/screenshots` subfolder. You may further separate them into `/screenshots/` and `/schemas/` if needed.
