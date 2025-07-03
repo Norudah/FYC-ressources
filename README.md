@@ -54,11 +54,12 @@ Hosted on YouTube:
 Exercises:
 - [Exercise - "Compose"](https://youtu.be/aBKKF4WnSg4)
 - [Exercise - "Curry"](https://youtu.be/MS37uepDr4E)
-- [Exercise - "Curry Writer"](https://youtu.be/IL_T2r2vypw)
+- [Exercise - "Monad Writter"](https://youtu.be/IL_T2r2vypw)
 
 Exercise Corrections:
 - [Correction - "Compose"](https://youtu.be/X_ck41KEBEs)
-- More coming soon...
+- [Correction - "Curry"](https://youtu.be/HqZmnvCG28g)
+- [Correction - "Monad Writter"](https://youtu.be/Sx2XZPsII_A)
 
 That's all!
 
